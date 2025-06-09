@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Shreya Paliwal
 
-<!--
-**paliwal-shreya/paliwal-shreya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Certified in Data Analytics & Generative AI (IIT Kanpur)  
+📊 Passionate about transforming raw data into actionable insights  
+🌏 Seeking opportunities in data analytics  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- **Data Analysis**: SQL, Excel (advanced), Python (Pandas, NumPy)
+- **Data Visualization**: Tableau, Power BI
+- **Tools**: MySQL, Jupyter, GitHub
+
+---
+
+### 💼 Projects
+Here are some of my recent data projects:
+- ✈️ [Air Cargo Analysis](https://github.com/YOUR_USERNAME/air-cargo-analysis): SQL-based aviation analysis (revenue, customer insights, route optimization)
+
+---
+
+### 📫 Contact Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/shreyapaliwal18/)
+
+---
+
+> “Data is a tool for enhancing intuition.” — Hilary Mason
+
