@@ -15,7 +15,7 @@
 
 ### 💼 Projects
 Here are some of my recent data projects:
-- ✈️ [Air Cargo Analysis](https://github.com/YOUR_USERNAME/air-cargo-analysis): SQL-based aviation analysis (revenue, customer insights, route optimization)
+- ✈️ [Air Cargo Analysis](https://github.com/paliwal-shreya/air-cargo-analysis): SQL-based aviation analysis (revenue, customer insights, route optimization)
 
 ---
 
